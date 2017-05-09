@@ -6,7 +6,6 @@ Park.prototype ={
   add: function(dinosaur){
     this.enclosure.push(dinosaur);
   }
-
 }
 
 module.exports = Park;
